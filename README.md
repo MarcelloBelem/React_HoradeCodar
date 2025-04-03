@@ -1,47 +1,46 @@
-React - Hora de Codar 🚀
+# Curso de React - Hora de Codar
 
-Este repositório contém minha jornada de aprendizado com React através do curso do Matheus Battisti - Hora de Codar. Aqui estão armazenados diversos projetos e exemplos práticos utilizados para entender os principais conceitos dessa poderosa biblioteca JavaScript.
+Este repositório contém minha jornada de aprendizado em **React** através do curso da **Hora de Codar**. Aqui, você encontrará exemplos práticos de como utilizar essa tecnologia, desde os conceitos básicos até a aplicação de hooks como **useState** e **useEffect**.
 
-📌 Sobre o Repositório
+## 📁 Estrutura do Repositório
 
-Cada pasta representa um projeto em React, desenvolvido ao longo do curso.
+- `projetos-react/` - Exemplos de aplicações desenvolvidas durante o curso.
+- `componentes/` - Estudos sobre componentização no React.
+- `hooks/` - Exemplos de uso dos principais hooks do React.
+- `conceitos/` - Material introdutório sobre a tecnologia.
 
-Os projetos servem como exemplos de utilização da tecnologia, abordando desde conceitos básicos até mais avançados.
+## 🚀 Tecnologias Utilizadas
 
-Foram explorados tópicos como componentização, estados, props e hooks (useState, useEffect, etc.).
+- **React** ⚛️
+- **JavaScript (ES6+)** ✨
+- **CSS (Estilização básica)** 🎨
 
-🛠 Tecnologias Utilizadas
+## 🔥 O que Aprendi?
 
-React.js ⚛️
+✅ Como funciona a estrutura de componentes no React.
+✅ Manipulação de estado com **useState**.
+✅ Efeitos colaterais com **useEffect**.
+✅ Como criar uma aplicação React do zero.
 
-JavaScript (ES6+)
+## 📌 Como Executar o Projeto?
 
-HTML & CSS
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/MarcelloBelem/React_HoradeCodar.git
+   ```
+2. Acesse a pasta do projeto:
+   ```bash
+   cd React_HoradeCodar
+   ```
+3. Instale as dependências:
+   ```bash
+   npm install
+   ```
+4. Execute o servidor local:
+   ```bash
+   npm start
+   ```
 
-Vite (para criação de projetos React mais eficientes)
+## 📢 Contato
 
-🚀 Como Executar os Projetos
-
-Se quiser rodar algum dos projetos localmente:
-
-Clone este repositório:
-
-git clone https://github.com/MarcelloBelem/React_HoradeCodar.git
-
-Acesse a pasta do projeto desejado:
-
-cd nome-do-projeto
-
-Instale as dependências:
-
-npm install
-
-Inicie o servidor de desenvolvimento:
-
-npm run dev
-
-📚 Aprendizados e Experiências
-
-Durante esse curso, aprendi a criar aplicações React do zero, compreendendo como funcionam os principais recursos da biblioteca e como aplicá-los em projetos reais.
-
-📌 Sinta-se à vontade para explorar o repositório e contribuir! Caso tenha sugestões ou dúvidas, abra uma issue ou entre em contato. 🚀
+Se quiser trocar uma ideia sobre React ou desenvolvimento web, me chame no **Instagram** [@Dev.Belém](https://instagram.com/dev.belem) 🚀
