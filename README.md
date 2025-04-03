@@ -7,7 +7,7 @@ Este repositório contém minha jornada de aprendizado em **React** através do 
 - **React** ⚛️
 - **JavaScript (ES6+)** ✨
 - **CSS (Estilização básica)** 🎨
-- **Vite (Build)**
+- **Vite (Build)⚡**
 
 ## 📌 Projeto Final
 
@@ -25,7 +25,7 @@ O projeto final desenvolvido durante o curso é uma Lista de Tarefas interativa,
 
 Esse projeto foi essencial para reforçar os princípios básicos do React e compreender a importância do estado e eventos no desenvolvimento de aplicações modernas.
 
-🔗 Acesse o projeto aqui: [LINK DO PROJETO]
+🔗 Acesse o projeto aqui: **https://react-todo-list-horadecodar.netlify.app/**
 
 ## 🔥 O que Aprendi?
 
