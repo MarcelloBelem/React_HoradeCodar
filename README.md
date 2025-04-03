@@ -7,6 +7,7 @@ Este repositório contém minha jornada de aprendizado em **React** através do 
 - **React** ⚛️
 - **JavaScript (ES6+)** ✨
 - **CSS (Estilização básica)** 🎨
+- **Vite (Build)**
 
 ## 📌 Projeto Final
 
